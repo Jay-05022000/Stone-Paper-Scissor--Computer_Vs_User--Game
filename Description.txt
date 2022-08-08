@@ -1,0 +1,5 @@
+-------------------Stone,Paper,Scissor(User Vs Computer) game-------------------
+
+-- User will play this game 10 times with computer.
+--At each time,program will compare user input and computer generated input and based on that program will anounce winner of each time.
+-- After all attempts program will anounce winner of the game.
